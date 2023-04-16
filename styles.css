@@ -49,6 +49,7 @@ a {
 a:hover {
     color: aliceblue;
 }
+
 .pro {
     text-decoration: underline;
     font-family: 'Montserrat', sans-serif;
@@ -63,8 +64,8 @@ a:hover {
 .contact-me-text {
     margin: auto;
     width: 60%;
-    margin-bottom: 10px;
 }
+
 
 .contact-me {
     margin-bottom: 100px;
